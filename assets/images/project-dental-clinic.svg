@@ -1,0 +1,13 @@
+<svg width="416" height="429" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#30cfd0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#330867;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="416" height="429" fill="url(#grad6)"/>
+  <text x="50%" y="42%" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="white" text-anchor="middle">Dental Sense</text>
+  <text x="50%" y="52%" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">Professional Dental Care</text>
+  <circle cx="208" cy="310" r="40" fill="rgba(255,255,255,0.2)"/>
+  <path d="M 188 310 Q 208 290 228 310" stroke="white" stroke-width="4" fill="none" opacity="0.4"/>
+</svg>

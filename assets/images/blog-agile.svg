@@ -1,0 +1,14 @@
+<svg width="202" height="162" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blogbg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#11998e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38ef7d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="202" height="162" fill="url(#blogbg2)"/>
+  <text x="50%" y="45%" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">Agile</text>
+  <text x="50%" y="60%" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="white" text-anchor="middle">Methodology</text>
+  <rect x="60" y="110" width="25" height="35" fill="rgba(255,255,255,0.4)"/>
+  <rect x="90" y="100" width="25" height="45" fill="rgba(255,255,255,0.5)"/>
+  <rect x="120" y="95" width="25" height="50" fill="rgba(255,255,255,0.4)"/>
+</svg>

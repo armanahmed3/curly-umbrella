@@ -1,0 +1,15 @@
+<svg width="416" height="429" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="416" height="429" fill="url(#grad3)"/>
+  <text x="50%" y="40%" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">Courses</text>
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">Management</text>
+  <text x="50%" y="58%" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">Education Platform</text>
+  <rect x="120" y="280" width="60" height="60" rx="5" fill="rgba(255,255,255,0.2)"/>
+  <rect x="200" y="280" width="60" height="60" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="280" y="280" width="60" height="60" rx="5" fill="rgba(255,255,255,0.2)"/>
+</svg>

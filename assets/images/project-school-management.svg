@@ -1,0 +1,15 @@
+<svg width="416" height="429" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6e7f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bfe9ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="416" height="429" fill="url(#grad8)"/>
+  <text x="50%" y="38%" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">School Management</text>
+  <text x="50%" y="48%" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.9)" text-anchor="middle">Advanced System</text>
+  <rect x="140" y="280" width="50" height="70" rx="5" fill="rgba(255,255,255,0.3)"/>
+  <rect x="210" y="280" width="50" height="70" rx="5" fill="rgba(255,255,255,0.4)"/>
+  <polygon points="165,260 165,280 185,270" fill="rgba(255,255,255,0.3)"/>
+  <polygon points="235,260 235,280 255,270" fill="rgba(255,255,255,0.3)"/>
+</svg>
