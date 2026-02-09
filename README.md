@@ -1,10 +1,5 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Ti-Tech)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Ti-Tech?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Ti-Tech?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/olASpEtIwRY?style=social)](https://youtu.be/olASpEtIwRY)
+
 
   <br />
   <br />
@@ -13,7 +8,7 @@
 
   Ti-Tech is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/Ti-Tech/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/armanahmed3/curly-umbrella/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
