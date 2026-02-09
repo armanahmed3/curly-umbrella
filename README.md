@@ -8,7 +8,7 @@
 
   Ti-Tech is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/armanahmed3/curly-umbrella/"><strong>➥ Live Demo</strong></a>
+  <a href="https://titech-kohl.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,18 +31,18 @@ To run **Ti-Tech** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/Ti-Tech.git
+sudo git clone https://github.com/curly-umbrella/Ti-Tech.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/Ti-Tech.git
+git clone https://github.com/curly-umbrella/Ti-Tech.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/curly-umbrella).
 
 ### License
 
